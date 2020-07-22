@@ -1,8 +1,8 @@
 {
-  "name": "core-lebillet",
+  "name": "ts-node-template",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:gwelter/core-lebillet.git",
+  "repository": "git@github.com:gwelter/ts-node-template.git",
   "author": "Guilherme André Welter <guilherme.a.welter@gmail.com>",
   "license": "MIT",
   "scripts": {
